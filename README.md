@@ -8,10 +8,8 @@
 <body>
     <h1>Fake News Prediction System</h1>
     <p>Welcome to the Fake News Prediction System! This project aims to detect and classify news articles as real or fake using machine learning techniques.</p>
-
     <h2>Introduction</h2>
     <p>The Fake News Prediction System is designed to analyze news articles and predict whether they are genuine or fabricated. This is achieved through natural language processing (NLP) and machine learning algorithms.</p>
-
     <h2>Features</h2>
     <ul>
         <li>Text preprocessing and cleaning</li>
