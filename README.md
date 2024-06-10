@@ -24,46 +24,6 @@
 cd fake-news-prediction
 pip install -r requirements.txt
 </code></pre>
-
-<h2>Usage</h2>
-<p><strong>1. Preprocess the data:</strong></p>
-<p>Clean the dataset and perform necessary preprocessing steps.</p>
-<p><strong>2. Train the model:</strong></p>
-<p>Train the machine learning model on the preprocessed data.</p>
-<p><strong>3. Evaluate the model:</strong></p>
-<p>Evaluate the trained model using various performance metrics.</p>
-
-<p>Example usage:</p>
-<pre><code># Import necessary modules
-from preprocess import preprocess_data
-from train import train_model
-from evaluate import evaluate_model
-
-# Preprocess the data
-data = preprocess_data('path_to_dataset.csv')
-
-# Train the model
-model = train_model(data)
-
-# Evaluate the model
-evaluate_model(model, data)
-</code></pre>
-
-<h2>Dataset</h2>
-<p>Details about the dataset used in this project.</p>
-
-<h2>Model</h2>
-<p>Information about the machine learning models used for classification.</p>
-
-<h2>Evaluation</h2>
-<p>Explanation of the evaluation metrics and results.</p>
-
-<h2>Results</h2>
-<p>Summary of the model performance and results.</p>
-
-<h2>Contributing</h2>
-<p>If you would like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.</p>
-
 <h2>License</h2>
 <p>This project is licensed under the MIT License.</p>
 
